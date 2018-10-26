@@ -3,7 +3,7 @@
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:elin1231           name 1:
-       * GitHub username 2:glamble333         name 2:
+       * GitHub username 2:glamble333         name 2: Grant Lamble
        * GitHub username 3:laurynbranham47    name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
