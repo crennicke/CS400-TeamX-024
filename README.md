@@ -1,15 +1,16 @@
-# xteam-exercise-2: https://github.com/crennicke/expert-winner
+# crennicke: https://github.com/crennicke/expert-winner
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
+       * GitHub username 1:elin1231           name 1:
+       * GitHub username 2:glamble333         name 2:
+       * GitHub username 3:laurynbranham47    name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   October 26th
    * How long did it take your team to complete this exercise? 
-
+   1 hour
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
