@@ -29,33 +29,41 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A parking structure that is able to find the most efficient spot to place the car and keep track of how long it is there.
+This program would take inputs that define the type of car and output where it should go.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: EZ Park
 
 
-
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
-
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+2. Output:
+     ** The Best spot to park in the structure: the # of the spot
+     ** The fee after you leave: a double for money.
 
 
+3. Input: 
+     ** size of car: selection of moped/bike, smart car, normal car, truck
+     ** type: selection of gas or electric
+     ** String of the liscense plate to identiy the vehicle
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+4. User Interface: 
+     ** 2 Options: check in or check out.
+     ** Option 1:
+        ** Drop down of type: Gas and Electric
+        ** Drop down of size: moped, smart, normal, truck
+        ** Keyboard of liscense plate
+     ** Option 2:
+        ** Keyboard of liscense plate
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+     ** Classes: Garage, Car
+     ** Methods: calcTime (calculate the time), money(the fee), howManySpots(How many spots are available ---> whichType(which type of spots are up), determineBestSpot(Find the best spot for the vehicle)
+     ** Getters and Setters are given.
 
 
 Name each interface or class and briefly describe its function or purpose.
 
-
-## Edit and Submit this file and any figures referenced by this document.
 
