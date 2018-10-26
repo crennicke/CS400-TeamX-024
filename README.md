@@ -2,7 +2,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:elin1231          &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; name 1: Eric Lin
+       * GitHub username 1:elin1231         &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; name 1: Eric Lin
        * GitHub username 2:glamble333       &nbsp; &nbsp; name 2: Grant Lamble
        * GitHub username 3:laurynbranham47   &nbsp; &nbsp; name 3:
        * GitHub username 4:crennicke     &nbsp;  &nbsp; name 4:
