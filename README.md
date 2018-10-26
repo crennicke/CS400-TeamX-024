@@ -5,7 +5,7 @@
        * GitHub username 1:elin1231           name 1: Eric Lin
        * GitHub username 2:glamble333         name 2: Grant Lamble
        * GitHub username 3:laurynbranham47    name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 4:crennicke       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    October 26th
