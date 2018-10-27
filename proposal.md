@@ -38,29 +38,35 @@ This program would take inputs that define the type of car and output where it s
 
 
 2. Output:
-     * The Best spot to park in the structure: the # of the spot
-     * The fee after you leave: a double for money.
+     * The Best spot to park in the structure: the number of the spot
+     * The fee for parking: a double for money (based on the amount of time).
 
 
 3. Input: 
-     * size of car: selection of moped/bike, smart car, normal car, truck
-     * type: selection of gas or electric
+     * Size of car: selection of moped/bike, smart/compact car, normal size car, large truck
+     * Type: selection of gas or electric
      * String of the liscense plate to identiy the vehicle
 
 
 4. User Interface: 
-     * 2 Options: check in or check out.
+     * 2 Options: Check in or Check out
      * Option 1:
-        * Drop down of type: Gas and Electric
+        * Drop down of type: Gas, Electric, Wheelchair accessible
         * Drop down of size: moped, smart, normal, truck
-        * Textbox for liscense plate
+        * Textbox for license plate
      * Option 2:
-        * Textbox for liscense plate
+        * Textbox for license plate
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
      * Classes: Garage, Car
-     * Methods: calcTime (calculate the time), money(the fee), howManySpots(How many spots are available ---> whichType(which type of spots are up), determineBestSpot(Find the best spot for the vehicle)
+     * Methods: 
+         * calcTime (calculate the time in garage) 
+         * money(the fee for parking) 
+         * howManySpotsAvailable(How many spots are available) 
+         * whichType(which type of spots are available)
+         * determineBestSpot(Find the best spot for the vehicle)
+         
      * Getters and Setters are given.
 
 
