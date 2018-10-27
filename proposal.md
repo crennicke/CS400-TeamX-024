@@ -53,9 +53,9 @@ This program would take inputs that define the type of car and output where it s
      * Option 1:
         * Drop down of type: Gas and Electric
         * Drop down of size: moped, smart, normal, truck
-        * Keyboard of liscense plate
+        * Textbox for liscense plate
      * Option 2:
-        * Keyboard of liscense plate
+        * Textbox for liscense plate
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
@@ -64,6 +64,8 @@ This program would take inputs that define the type of car and output where it s
      * Getters and Setters are given.
 
 
-Name each interface or class and briefly describe its function or purpose.
+6. Name each interface or class and briefly describe its function or purpose.
+     * Car Class: This class stores the information of the car such as the license plate number and type of car.
+     * Garage Class: This class stores the information of the garage structure such as how many of each type of spot, how many spots are left, and time stayed in garage.
 
 
