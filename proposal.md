@@ -38,30 +38,30 @@ This program would take inputs that define the type of car and output where it s
 
 
 2. Output:
-     ** The Best spot to park in the structure: the # of the spot
-     ** The fee after you leave: a double for money.
+     * The Best spot to park in the structure: the # of the spot
+     * The fee after you leave: a double for money.
 
 
 3. Input: 
-     ** size of car: selection of moped/bike, smart car, normal car, truck
-     ** type: selection of gas or electric
-     ** String of the liscense plate to identiy the vehicle
+     * size of car: selection of moped/bike, smart car, normal car, truck
+     * type: selection of gas or electric
+     * String of the liscense plate to identiy the vehicle
 
 
 4. User Interface: 
-     ** 2 Options: check in or check out.
-     ** Option 1:
-        ** Drop down of type: Gas and Electric
-        ** Drop down of size: moped, smart, normal, truck
-        ** Keyboard of liscense plate
-     ** Option 2:
-        ** Keyboard of liscense plate
+     * 2 Options: check in or check out.
+     * Option 1:
+        * Drop down of type: Gas and Electric
+        * Drop down of size: moped, smart, normal, truck
+        * Keyboard of liscense plate
+     * Option 2:
+        * Keyboard of liscense plate
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-     ** Classes: Garage, Car
-     ** Methods: calcTime (calculate the time), money(the fee), howManySpots(How many spots are available ---> whichType(which type of spots are up), determineBestSpot(Find the best spot for the vehicle)
-     ** Getters and Setters are given.
+     * Classes: Garage, Car
+     * Methods: calcTime (calculate the time), money(the fee), howManySpots(How many spots are available ---> whichType(which type of spots are up), determineBestSpot(Find the best spot for the vehicle)
+     * Getters and Setters are given.
 
 
 Name each interface or class and briefly describe its function or purpose.
