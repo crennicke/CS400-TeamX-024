@@ -1,4 +1,4 @@
-# crennicke: https://github.com/crennicke/expert-winner
+# crennicke: https://github.com/crennicke/CS400-TeamX-024
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
